@@ -3,6 +3,11 @@
     margin: 0;
     padding: 0;
 }
+body > footer{
+    background-color: darkgreen;
+    padding: 16px 0;
+    color: floralwhite;
+}
 
  body > header{
     background-color: darkgreen;
